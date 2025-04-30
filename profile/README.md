@@ -9,4 +9,4 @@ French research association
 [Vincent DRABCZUK]()\
 [Denis TURBIEZ](https://github.com/MacaronFR)\
 [Enzo SOARES](https://github.com/enzoSoa)\
-[Julian ALIZAY](https://github.com/JulianALZ)\
+[Julian ALIZAY](https://github.com/JulianALZ)
