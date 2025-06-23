@@ -24,4 +24,4 @@ Together, we combine technical expertise with a shared vision for responsible in
 * **Secretary:** [Armand DAILLY](https://github.com/Dixen-Naxos)
 * **Treasurer:** [Vincent DRABCZUK](https://github.com/1202167)
 * **Administrators**: [Erwan DUPREY](https://github.com/ErwanDuprey), [Raphael PESSIS](https://github.com/rpsss), [Enzo SOARES](https://github.com/enzoSoa), [Loic VANDEN BOSSCHE](https://github.com/Loic-Vanden-Bossche)
-* **Members:** [Thomas LEGRAND](https://github.com/Kuramathi), [Enzo LEONARDO](https://github.com/Leonardeaux), [Denis TURBIEZ](https://github.com/MacaronFR), [Julian ALIZAY](https://github.com/JulianALZ)
+* **Members:** [Julian ALIZAY](https://github.com/JulianALZ), [Stépane BINON](https://github.com/St3p159789), [Thomas LEGRAND](https://github.com/Kuramathi), [Enzo LEONARDO](https://github.com/Leonardeaux), [Hamsa MOUSSA](https://github.com/HamsaMousa), [Denis TURBIEZ](https://github.com/MacaronFR)
