@@ -2,7 +2,7 @@
 
 ## About Us
 
-**Aluci** is a collaborative research association dedicated to advancing the frontiers of **computer science**, with a focus on **ethical innovation** and **open knowledge sharing**.
+**Aluci** is a collaborative association dedicated to advancing the frontiers of **computer science**, with a focus on **ethical innovation** and **open knowledge sharing**.
 
 Our mission is to:
 
@@ -17,11 +17,3 @@ We bring together passionate minds from academia and industry to build a future 
 
 Our members come from diverse backgrounds in **computer science**, mainly **software engineering, artificial intelligence, and robotics**.
 Together, we combine technical expertise with a shared vision for responsible innovation.
-
-**Current Members**:
-
-* **President:** [Juan MAUBRAS](https://github.com/Elesdes)
-* **Secretary:** [Armand DAILLY](https://github.com/Dixen-Naxos)
-* **Treasurer:** [Vincent DRABCZUK](https://github.com/1202167)
-* **Administrators**: [Erwan DUPREY](https://github.com/ErwanDuprey), [Raphael PESSIS](https://github.com/rpsss), [Enzo SOARES](https://github.com/enzoSoa), [Loic VANDEN BOSSCHE](https://github.com/Loic-Vanden-Bossche)
-* **Members:** [Julian ALIZAY](https://github.com/JulianALZ), [Stépane BINON](https://github.com/St3p159789), [Thomas LEGRAND](https://github.com/Kuramathi), [Enzo LEONARDO](https://github.com/Leonardeaux), [Hamsa MOUSSA](https://github.com/HamsaMousa), [Denis TURBIEZ](https://github.com/MacaronFR)
