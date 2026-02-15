@@ -12,7 +12,7 @@ We don't just consume open source, we aim to master its engineering. Our work fo
 
 * **Verifiable Engineering:** Promoting architecture over approximation. We advocate for memory-safe languages and automated, reproducible environments.
 * **The "Hub of Trust":** We act as a third-party validator for open-source projects, applying the rigor of scientific peer-review to code.
-* **AI Transparency:** We champion the use of efficient **Small Language Models (SLMs)** and mandate strict transparence.
+* **AI Transparency:** We champion the use of efficient **Small Language Models (SLMs)** and mandate strict transparence over AI usage.
 
 ## The Aluci Label
 
