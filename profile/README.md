@@ -1,19 +1,35 @@
 # Aluci
 
-## About Us
+### The Foundation for Responsible, Transparent, and Native Software.
 
-**Aluci** is a collaborative association dedicated to advancing the frontiers of **computer science**, with a focus on **ethical innovation** and **open knowledge sharing**.
+**Aluci** is a french non-profit association (Loi 1901) bridging the gap between **research** and **high-stakes software engineering**. We exist to define and defend the standards of open source.
 
-Our mission is to:
+In an era of "vibe coding" and disposable software, we stand for **technical rigor**, **long-term maintenance**, and **human-centric design**.
 
-* Explore cutting-edge developments in **AI, robotics, and software engineering**
-* Promote **interdisciplinary collaboration** among researchers, developers, and engineers
-* Support and develop **open-source technologies**
-* Encourage reflection on the **social and ethical dimensions** of emerging technologies
+## Our Mission
 
-We bring together passionate minds from academia and industry to build a future where progress in computing is transparent, thoughtful, and accessible.
+We don't just consume open source, we aim to master its engineering. Our work focuses on three pillars:
 
-## Members
+* **Verifiable Engineering:** Promoting architecture over approximation. We advocate for memory-safe languages and automated, reproducible environments.
+* **The "Hub of Trust":** We act as a third-party validator for open-source projects, applying the rigor of scientific peer-review to code.
+* **AI Transparency:** We champion the use of efficient **Small Language Models (SLMs)** and mandate strict transparence.
 
-Our members come from diverse backgrounds in **computer science**, mainly **software engineering, artificial intelligence, and robotics**.
-Together, we combine technical expertise with a shared vision for responsible innovation.
+## The Aluci Label
+
+We provide a rigorous **Labelling Process** for open-source projects that want to prove their production readiness. A project bearing the **Aluci Certified** badge has passed our audit on:
+
+1. **Licensing & Legal Safety** (OSI-Approved License)
+2. **Technical Justification & Architecture**
+3. **Automated Setup & Documentation**
+4. **AI Usage Transparency**
+5. **Ethical & Resource Efficiency**
+
+👉 **[Get Started](https://github.com/AluciTech/aluci-label)** or join our [**Discord**](https://discord.gg/G3M4EWcAEV) to discuss our process.
+
+## Join the Ecosystem
+
+* **Website:** [aluci.fr](https://www.aluci.fr/)
+* **Discord:** [Join our Discord](https://discord.gg/G3M4EWcAEV)
+* **LinkedIn:** [Aluci Tech](https://www.linkedin.com/company/aluci-tech/)
+
+> *"Sovereignty is not about owning the code: it's about mastering the engineering behind it."*
