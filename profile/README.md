@@ -4,15 +4,16 @@
 
 **Aluci** is a french non-profit association (Loi 1901) bridging the gap between **research** and **high-stakes software engineering**. We exist to define and defend the standards of open source.
 
-In an era of "vibe coding" and disposable software, we stand for **technical rigor**, **long-term maintenance**, and **human-centric design**.
+In an era of "vibe coding" and disposable software, we stand for **technical rigor**, **long-term maintenance**, and **human-centric design**. We build and advocate for tools that elevate people rather than automate them away-grounded in the belief that the human mind remains the smartest machine ever made.
 
 ## Our Mission
 
-We don't just consume open source, we aim to master its engineering. Our work focuses on three pillars:
+We don't just consume open source, we aim to master its engineering. Our work focuses on four pillars:
 
-* **Verifiable Engineering:** Promoting architecture over approximation. We advocate for memory-safe languages and automated, reproducible environments.
-* **The "Hub of Trust":** We act as a third-party validator for open-source projects, applying the rigor of scientific peer-review to code.
-* **AI Transparency:** We champion the use of efficient **Small Language Models (SLMs)** and mandate strict transparence over AI usage.
+- **Verifiable Engineering:** Promoting architecture over approximation. We advocate for memory-safe languages and automated, reproducible environments.
+- **The "Hub of Trust":** We act as a third-party validator for open-source projects, applying the rigor of scientific peer-review to code.
+- **AI Transparency:** We champion efficient **Small Language Models (SLMs)** and mandate strict transparency over AI usage.
+- **Human-Centered Tools:** We build and audit software designed to assist human judgment, not supplant it. In an age of runaway autonomy, we design for the reality that humans are still the sharpest machines in the room.
 
 ## The Aluci Label
 
@@ -26,10 +27,10 @@ We provide a rigorous **Labelling Process** for open-source projects that want t
 
 👉 **[Get Started](https://github.com/AluciTech/aluci-label)** or join our [**Discord**](https://discord.gg/G3M4EWcAEV) to discuss our process.
 
-## Join the Ecosystem
+## Join Us
 
-* **Website:** [aluci.fr](https://www.aluci.fr/)
-* **Discord:** [Join our Discord](https://discord.gg/G3M4EWcAEV)
-* **LinkedIn:** [Aluci Tech](https://www.linkedin.com/company/aluci-tech/)
+- **Website:** [aluci.fr](https://www.aluci.fr/)
+- **Discord:** [Join our Discord](https://discord.gg/G3M4EWcAEV)
+- **LinkedIn:** [Aluci Tech](https://www.linkedin.com/company/aluci-tech/)
 
-> *"Sovereignty is not about owning the code: it's about mastering the engineering behind it."*
+> *"Sovereignty is not about owning the code: it's about keeping the smartest machines in command, us."*
